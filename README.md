@@ -1,2 +1,2 @@
 # bhavs-demo
-first git repositry
+first git repository
